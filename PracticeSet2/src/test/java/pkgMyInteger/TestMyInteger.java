@@ -1,4 +1,4 @@
-package pkgShape;
+package pkgMyInteger;
 
 import static org.junit.Assert.*;
 
