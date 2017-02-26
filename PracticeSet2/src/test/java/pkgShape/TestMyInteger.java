@@ -10,7 +10,8 @@ import org.junit.Test;
 
 import pkgMyInteger.MyInteger;
 
-public class TestMyInteger {
+public class TestMyInteger 
+{
 
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {

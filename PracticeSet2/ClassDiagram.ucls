@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <class-diagram version="1.1.14" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
   associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
-  <class id="1" language="java" name="pkgShape.MyInteger" project="PracticeSet2" 
-    file="/PracticeSet2/src/main/java/pkgShape/MyInteger.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="159" y="206"/>    
+  <class id="1" language="java" name="pkgShape.TestMyInteger" project="PracticeSet2" 
+    file="/PracticeSet2/src/test/java/pkgMyInteger/TestMyInteger.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="421" y="238"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="2" language="java" name="pkgShape.TestMyInteger" project="PracticeSet2" 
-    file="/PracticeSet2/src/test/java/pkgShape/TestMyInteger.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="407" y="206"/>    
+  <class id="2" language="java" name="pkgMyInteger.MyInteger" project="PracticeSet2" 
+    file="/PracticeSet2/src/main/java/pkgMyInteger/MyInteger.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="193" y="220"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
